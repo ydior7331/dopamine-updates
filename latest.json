@@ -1,8 +1,8 @@
 {
-  "commit": "6922af1bfbee3785a1f1876bbe604eb36d26a507",
-  "short": "6922af1",
+  "commit": "a0f2e056462667472c24bbe406ae6caf0e31bca3",
+  "short": "a0f2e05",
   "version": "0.1.0",
-  "message": "Keep running when alt tabbed, human like macro aim",
-  "date": "2026-11-01T13:03:47+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41304990667"
+  "message": "Revert \"Keep running when alt tabbed, human like macro aim\"",
+  "date": "2026-11-01T13:12:46+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41305503725"
 }
