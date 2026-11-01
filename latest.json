@@ -1,8 +1,8 @@
 {
-  "commit": "678b16ead0fdecb912d79bb24b2fe38a41a55eb5",
-  "short": "678b16e",
+  "commit": "045d7cccad65ec6daa7c7d9ccaa2d16634bdd7dd",
+  "short": "045d7cc",
   "version": "0.1.0",
-  "message": "Pathfinder avoids water and can swim out of it",
-  "date": "2026-11-01T12:37:17+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41302787561"
+  "message": "Dopamine HUD and notifications draw above other mods",
+  "date": "2026-11-01T12:45:06+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41303304811"
 }
