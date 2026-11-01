@@ -1,8 +1,8 @@
 {
-  "commit": "8be7a53d40d9ee70fe45cf5bc72ca69d30b95249",
-  "short": "8be7a53",
+  "commit": "678b16ead0fdecb912d79bb24b2fe38a41a55eb5",
+  "short": "678b16e",
   "version": "0.1.0",
-  "message": "Zealot Macro: real drop line only, nearest target, fewer jumps",
-  "date": "2026-11-01T12:24:16+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41301850657"
+  "message": "Pathfinder avoids water and can swim out of it",
+  "date": "2026-11-01T12:37:17+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41302787561"
 }
