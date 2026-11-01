@@ -1,8 +1,8 @@
 {
-  "commit": "ee0e7e1d7f6b6db9253e731ef02b2a39f2278996",
-  "short": "ee0e7e1",
+  "commit": "93a22449bb61057c5be1fa8e8dfc5cd23e278eb1",
+  "short": "93a2244",
   "version": "0.1.0",
-  "message": "Chat prefix lights up when a message arrives",
-  "date": "2026-11-01T00:56:22+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41254575557"
+  "message": "ClickGUI fades out when it closes",
+  "date": "2026-11-01T01:14:40+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41255884456"
 }
