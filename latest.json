@@ -1,8 +1,8 @@
 {
-  "commit": "10086fc0b249951784a97c663bf048f814258928",
-  "short": "10086fc",
+  "commit": "fba0a9077bbd03232f0f4111346bdfe3cd58f8f8",
+  "short": "fba0a90",
   "version": "0.1.0",
-  "message": "Fake InvWalk shows an animated card with one segment per click, and a live equalizer preview for Melody",
-  "date": "2026-11-02T10:40:28+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41422632919"
+  "message": "Auto P3 with rings and the /p3 command, Fast Leap, Auto SS, Auto 4, Align Aura, Blink and Velocity Buffer ported from RSA",
+  "date": "2026-11-02T17:24:25+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41481561394"
 }
