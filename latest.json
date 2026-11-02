@@ -1,8 +1,8 @@
 {
-  "commit": "972567eeb229e4893b914e1b359ed583c1a2d9f5",
-  "short": "972567e",
+  "commit": "10086fc0b249951784a97c663bf048f814258928",
+  "short": "10086fc",
   "version": "0.1.0",
-  "message": "/dopamine debug dev acts as if you were in a Hypixel M7 dungeon, terminals open from slot by slot menus, Force SkyBlock removed",
-  "date": "2026-11-02T06:15:21+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41419361170"
+  "message": "Fake InvWalk shows an animated card with one segment per click, and a live equalizer preview for Melody",
+  "date": "2026-11-02T10:40:28+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41422632919"
 }
