@@ -1,8 +1,8 @@
 {
-  "commit": "c821b58f719bca07684718f8e3afe4d5e8cf2669",
-  "short": "c821b58",
+  "commit": "72d84cce4d3c535f2450f102fc3b0c2928e84523",
+  "short": "72d84cc",
   "version": "0.1.0",
-  "message": "Rush heart monitor trace wraps around and fades out instead of resetting",
-  "date": "2026-11-01T17:39:30+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41327467990"
+  "message": "Auto Routes rings show their type and settings above them",
+  "date": "2026-11-02T03:11:27+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41376414096"
 }
