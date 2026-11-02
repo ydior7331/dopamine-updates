@@ -1,8 +1,8 @@
 {
-  "commit": "fba0a9077bbd03232f0f4111346bdfe3cd58f8f8",
-  "short": "fba0a90",
+  "commit": "2c68b493897b59835e2ca662509b89e77b0864a6",
+  "short": "2c68b49",
   "version": "0.1.0",
-  "message": "Auto P3 with rings and the /p3 command, Fast Leap, Auto SS, Auto 4, Align Aura, Blink and Velocity Buffer ported from RSA",
-  "date": "2026-11-02T17:24:25+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41481561394"
+  "message": "Breaker Aura ported from RSA with block profiles, Auto P3 keeps rings of unknown types, loads its config on change and waits for chat lines",
+  "date": "2026-11-02T17:47:33+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41486460202"
 }
