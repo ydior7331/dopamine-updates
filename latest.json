@@ -1,8 +1,8 @@
 {
-  "commit": "eb056e952fe34dbcc4e2a574032553d4e73901f6",
-  "short": "eb056e9",
+  "commit": "2231915faf6c52a12012ffab56cb31e076e37b21",
+  "short": "2231915",
   "version": "0.1.0",
-  "message": "Terminal simulator, Fake InvWalk, off tick clicks, Ashfall stasis and fast teleports, room by room etherwarp travel",
-  "date": "2026-11-02T04:24:12+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41382982067"
+  "message": "Terminals are found on servers that leave colour codes in the title, and only the menu's own slots are read",
+  "date": "2026-11-02T04:45:59+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41384912160"
 }
