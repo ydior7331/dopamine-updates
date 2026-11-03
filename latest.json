@@ -1,8 +1,8 @@
 {
-  "commit": "9729091d99d3eee3be03b6561ed3590290a2a686",
-  "short": "9729091",
+  "commit": "691cb3b1dec0827d886a2a3f5cd65d277324f6cc",
+  "short": "691cb3b",
   "version": "0.1.0",
-  "message": "other(modules): split floor 7 and macro into their own lists, keep font, menus and hotbar always on by @ydior7331",
-  "date": "2026-11-03T13:17:40+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41635112248"
+  "message": "feat(menu): options, server, world, language, key bind and pack screens in the tesseract style by @ydior7331",
+  "date": "2026-11-03T15:34:37+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41655058730"
 }
