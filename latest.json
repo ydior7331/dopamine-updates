@@ -1,8 +1,8 @@
 {
-  "commit": "ad504018eec718ec1a3fe8fd92c79645b4da784c",
-  "short": "ad50401",
+  "commit": "9729091d99d3eee3be03b6561ed3590290a2a686",
+  "short": "9729091",
   "version": "0.1.0",
-  "message": "Mod Hider added, mod list reveal prevention",
-  "date": "2026-11-03T12:56:59+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41631638381"
+  "message": "other(modules): split floor 7 and macro into their own lists, keep font, menus and hotbar always on by @ydior7331",
+  "date": "2026-11-03T13:17:40+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41635112248"
 }
