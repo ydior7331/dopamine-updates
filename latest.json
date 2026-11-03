@@ -1,8 +1,8 @@
 {
-  "commit": "e3bbb6735015bd648f6784576e2e77815995a383",
-  "short": "e3bbb67",
+  "commit": "27d9e55464cda16776f39bb5c98cb6e6173b5dab",
+  "short": "27d9e55",
   "version": "0.1.0",
-  "message": "fix(clickgui): wrap section tabs that do not fit the drawer by @ydior7331",
-  "date": "2026-11-03T17:13:00+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41671900200"
+  "message": "feat(interactivemap): made interactive map and pathfinder+settings by @ydior7331",
+  "date": "2026-11-03T17:41:02+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41676702088"
 }
