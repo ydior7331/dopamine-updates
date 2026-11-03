@@ -1,8 +1,8 @@
 {
-  "commit": "2ccc13b5bdfdc30f80b8845d90ae9ce4bb1c38cc",
-  "short": "2ccc13b",
+  "commit": "f255bfea805876c337af500e77a0ca33ed96bc18",
+  "short": "f255bfe",
   "version": "0.1.0",
-  "message": "feat(zealot): zealot macro v2 dior with humanized aim, route walker and live debugger by @ydior7331",
-  "date": "2026-11-03T19:33:54+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41695024893"
+  "message": "fix(zealot): flick aim, strafe keys, jump and water handling, sticky focus and no pause after a kill by @ydior7331",
+  "date": "2026-11-03T20:51:53+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41707231210"
 }
