@@ -1,8 +1,8 @@
 {
-  "commit": "dac7f7c3119a4270a9ab834ea60181d55300c022",
-  "short": "dac7f7c",
+  "commit": "5b9a2de462e7b4ac7a216d706058b56d25987502",
+  "short": "5b9a2de",
   "version": "0.1.0",
-  "message": "feat(ci): post build status to discord by @ydior7331",
-  "date": "2026-11-03T15:45:58+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41656940443"
+  "message": "feat(ci): add the jar link to the discord status by @ydior7331",
+  "date": "2026-11-03T15:54:22+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41658327359"
 }
