@@ -1,8 +1,8 @@
 {
-  "commit": "27d9e55464cda16776f39bb5c98cb6e6173b5dab",
-  "short": "27d9e55",
+  "commit": "0723c0c20bf772e5523045f201922957edd26b7a",
+  "short": "0723c0c",
   "version": "0.1.0",
-  "message": "feat(interactivemap): made interactive map and pathfinder+settings by @ydior7331",
-  "date": "2026-11-03T17:41:02+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41676702088"
+  "message": "feat(proxy): added built-in support for proxy to multiplayer screen by @ydior7331",
+  "date": "2026-11-03T18:56:51+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41689178930"
 }
