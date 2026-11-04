@@ -1,8 +1,8 @@
 {
-  "commit": "0a9d620ebefa7f77c27c15c1b071b4ad4989b08e",
-  "short": "0a9d620",
+  "commit": "27f9bfb5112cd2b23d0232e539d9a7b802a55c1d",
+  "short": "27f9bfb",
   "version": "0.1.0",
-  "message": "feat: add Revenant Slayer and targets",
-  "date": "2026-11-04T17:44:00+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41870422560"
+  "message": "fix(secrets): highlights no longer show through walls by @ydior7331",
+  "date": "2026-11-04T17:49:29+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/41871431326"
 }
