@@ -1,8 +1,8 @@
 {
-  "commit": "e05acd793c47cd0753a37cf056ebe22561501ef8",
-  "short": "e05acd7",
+  "commit": "7e628e234c29d50d884918e42e2379162679192c",
+  "short": "7e628e2",
   "version": "0.1.0",
-  "message": "fix: revenant slayer targeting and pathfinder jump",
-  "date": "2026-11-05T13:38:28+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42028934585"
+  "message": "feat(pathfinder): reworked pathfinding into fast, smooth walking with fixed slab, stair and high speed zigzag, added parkour jumps (half done), cc block capture, back2start, exact goto arrival and animated styles for the path tracking line by @ydior7331",
+  "date": "2026-11-06T13:57:57+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42221700265"
 }
