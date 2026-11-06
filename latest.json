@@ -1,8 +1,8 @@
 {
-  "commit": "7e628e234c29d50d884918e42e2379162679192c",
-  "short": "7e628e2",
+  "commit": "d090ec0e774f001eb9073ab4db79b187d8aa85ad",
+  "short": "d090ec0",
   "version": "0.1.0",
-  "message": "feat(pathfinder): reworked pathfinding into fast, smooth walking with fixed slab, stair and high speed zigzag, added parkour jumps (half done), cc block capture, back2start, exact goto arrival and animated styles for the path tracking line by @ydior7331",
-  "date": "2026-11-06T13:57:57+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42221700265"
+  "message": "feat(revenantmacro): added revenant slayer macro with miniboss priority, scoreboard boss detection, auto quest restart and noob mode by @ydior7331",
+  "date": "2026-11-06T20:59:58+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42284518986"
 }
