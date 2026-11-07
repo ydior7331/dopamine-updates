@@ -1,8 +1,8 @@
 {
-  "commit": "f39742da2c72f515b737312142ba589d83151336",
-  "short": "f39742d",
+  "commit": "87152f09c328f9aed41fb02ec5cc9fc078449080",
+  "short": "87152f0",
   "version": "0.1.0",
-  "message": "merge origin/main",
-  "date": "2026-11-07T01:08:19+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42316408338"
+  "message": "other(modules): fullbright, render optimizer, camera and irc are on by default by @ydior7331",
+  "date": "2026-11-07T13:53:30+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42374501690"
 }
