@@ -1,8 +1,8 @@
 {
-  "commit": "dad3dcd70da1a51b61e15721531a9b405afb764d",
-  "short": "dad3dcd",
+  "commit": "c14dc702421b5102217da0023d8635264c03bb17",
+  "short": "c14dc70",
   "version": "0.1.0",
-  "message": "feat(cosmetics): wardrobe menu with a gem shop, codes, admin tools, 3d previews and soul reaper wings by @ydior7331",
-  "date": "2026-11-08T12:16:49+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42475038325"
+  "message": "feat(render): skybox with animated shader skies from aether by @ydior7331",
+  "date": "2026-11-08T19:58:27+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42512640469"
 }
