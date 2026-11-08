@@ -1,8 +1,8 @@
 {
-  "commit": "c14dc702421b5102217da0023d8635264c03bb17",
-  "short": "c14dc70",
+  "commit": "4343c729ffd137a78c8b8038c0a27def64fed92d",
+  "short": "4343c72",
   "version": "0.1.0",
-  "message": "feat(render): skybox with animated shader skies from aether by @ydior7331",
-  "date": "2026-11-08T19:58:27+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42512640469"
+  "message": "feat(rift): add berberis macro, in progress, by @droz775",
+  "date": "2026-11-09T00:20:48+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42534771505"
 }
