@@ -1,8 +1,8 @@
 {
-  "commit": "e287db286e324729d7a760adf2855fd974efd6ba",
-  "short": "e287db2",
+  "commit": "2c284314e505989e5061cb9a25315e078b58b6f7",
+  "short": "2c28431",
   "version": "0.1.0",
-  "message": "feat(mining): mining bot and ore macro with an ore route editor by @ydior7331",
-  "date": "2026-11-09T21:18:29+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42691759561"
+  "message": "feat(mining): mining bot for dragon simulator with obsidian, end stone and amethyst by @ydior7331",
+  "date": "2026-11-09T22:59:10+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42707625932"
 }
