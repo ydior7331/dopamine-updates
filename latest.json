@@ -1,8 +1,8 @@
 {
-  "commit": "e1dcbda6be0d4bb538234fcfc9ddc430f9872d6e",
-  "short": "e1dcbda",
+  "commit": "123d15edb6e0a2cc87082e847feea4666479906c",
+  "short": "123d15e",
   "version": "0.1.0",
-  "message": "fix(rift): small hotfixes by @droz775",
-  "date": "2026-11-09T18:47:08+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42668011454"
+  "message": "feat(rift): ice cooldown visible qol by @droz775",
+  "date": "2026-11-09T19:01:34+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/42670288986"
 }
