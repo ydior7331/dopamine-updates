@@ -1,8 +1,8 @@
 {
-  "commit": "9b75871d8126000eeb6c6d38923d5c258f4ec9ef",
-  "short": "9b75871",
+  "commit": "08aca2344f17e409af22235d82b62b8f95e08b10",
+  "short": "08aca23",
   "version": "0.1.0",
-  "message": "feat(rift): walk vampire mania, impels and auto-heal by @droz775",
-  "date": "2026-11-12T18:55:03+01:00",
-  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/43274453781"
+  "message": "fix(rift): stand stonewrath, rush impels and heal under 6 hearts by @droz775",
+  "date": "2026-11-13T02:21:16+01:00",
+  "url": "https://github.com/ydior7331/Dopamine.win/actions/runs/43344315091"
 }
